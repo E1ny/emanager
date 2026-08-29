@@ -1,0 +1,45 @@
+{
+  "source": "C:\\Users\\32730\\Documents\\Codex\\2026-08-30\\skill-plugin-x20\\work\\reference.jpg",
+  "image": {
+    "width": 160,
+    "height": 120
+  },
+  "tone": {
+    "mean_luminance": 0.41582,
+    "luminance_std": 0.0,
+    "p10": 0.41582,
+    "p50": 0.41582,
+    "p90": 0.41582,
+    "contrast_style": "soft contrast"
+  },
+  "color": {
+    "mean_rgb": [
+      0.70208,
+      0.353,
+      0.19606
+    ],
+    "mean_saturation": 0.72067,
+    "temperature": "warm",
+    "warm_cast": 0.50602,
+    "style": "high saturation",
+    "dominant_palette": [
+      {
+        "rgb": [
+          179,
+          90,
+          50
+        ],
+        "share": 1.0
+      }
+    ]
+  },
+  "techniques": [
+    "global tonal balancing",
+    "warm color balance",
+    "hue/saturation enhancement"
+  ],
+  "limitations": [
+    "A flattened photo cannot reveal the original Photoshop layer stack or exact tools.",
+    "The generated adjustments approximate global appearance and should be reviewed by a human."
+  ]
+}
