@@ -1,0 +1,20 @@
+{
+  "name": "emanager-open-source",
+  "interface": {
+    "displayName": "Emanager Open Source"
+  },
+  "plugins": [
+    {
+      "name": "emanager",
+      "source": {
+        "source": "local",
+        "path": "./plugins/emanager"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

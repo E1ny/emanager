@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+**/.plugin-manager/state.json
+.codex/
+.env
+.env.*
+!.env.example
