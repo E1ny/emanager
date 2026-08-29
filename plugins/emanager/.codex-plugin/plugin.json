@@ -1,0 +1,30 @@
+{
+  "name": "emanager",
+  "version": "1.0.0+codex.20260829192739",
+  "description": "An evidence-first five-stage workflow for turning plugin ideas into installable, host-verified software.",
+  "author": {
+    "name": "OpenAI Codex community"
+  },
+  "license": "MIT",
+  "keywords": [
+    "plugin",
+    "workflow",
+    "quality",
+    "evidence",
+    "verification"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Emanager",
+    "shortDescription": "Build plugins through five auditable stages.",
+    "longDescription": "Emanager guides requirements, runtime design, vertical planning, implementation, and final host verification with provenance, findings, and resumable state.",
+    "developerName": "OpenAI Codex community",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write",
+      "Analyze"
+    ],
+    "defaultPrompt": "Use emanager to turn this plugin idea into a verified delivery."
+  }
+}
